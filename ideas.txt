@@ -1,5 +1,14 @@
 Group Ideas
 
 1. Bus ticket issuing project
-2. Cleaning Robot
+
+why should we - involving more in IOT, well balanced in hardware, software
+
+why not - less knowledge in field
+
+
 3. Pills managing system
+
+why should we - easier to plan what we should do,  
+
+why not - more complex, less in IOT, 
